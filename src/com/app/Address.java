@@ -6,7 +6,7 @@ import org.springframework.stereotype.Component;
 @Component("aObj")
 public class Address {
 	
-	@Value("12345")
+	@Value("123")
 	private int addrId;
 	@Value("AAAA")
 	private String loc;
